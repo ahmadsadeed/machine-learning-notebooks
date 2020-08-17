@@ -37,3 +37,6 @@ starting point:
 - [Exercise 6 notebook](ml-ex6.ipynb): Support vector machines ([ex6.pdf](data/ml-ex6/ex6.pdf))
 - [Exercise 7 notebook](ml-ex7.ipynb): K-means clustering and principal component analysis ([ex7.pdf](data/ml-ex7/ex7.pdf))
 - [Exercise 8 notebook](ml-ex8.ipynb): Anomaly detection and recommender systems ([ex8.pdf](data/ml-ex8/ex8.pdf))
+
+### Extra
+Files with "detailed" in their name has more information on how to implement the algorithms from scratch from python and to help understand the math behind the algorithms.
